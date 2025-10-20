@@ -1,0 +1,11 @@
+Supplier_ID,Supplier_Name,Material_Type,Reliability_Score,Distance_to_Plant_km,Risk_Score,Risk_Level,Rank
+1,"Oneal, Porter and Smith",Plastic,0.95,66,0.083,Low,1
+9,Mathews-Martinez,Plastic,0.86,28,0.106,Low,2
+8,"Sanders, Price and Morris",Plastic,0.69,192,0.34,Low,3
+3,"Williams, Phillips and Jones",Rubber,0.68,240,0.384,Low,4
+2,"Mcmillan, Gray and Cruz",Aluminum,0.51,134,0.401,Medium,5
+6,Sims-Mcdonald,Rubber,0.59,222,0.424,Medium,6
+5,Jackson-Jones,Semiconductors,0.85,444,0.445,Medium,7
+7,May-Cook,Steel,0.74,461,0.525,Medium,8
+10,Haynes and Sons,Plastic,0.52,389,0.599,Medium,9
+4,Hall-Nicholson,Plastic,0.61,487,0.624,High,10
